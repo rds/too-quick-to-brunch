@@ -1,11 +1,11 @@
 {
-  "name": "your-app",
-  "description": "Description",
-  "author": "Your Name",
+  "name": "too-quick-to-brunch",
+  "description": "Brunch with backbone, react, stylus, karma and chai",
+  "author": "Richard Smith <rich@maycontaincocoa.com>",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/rds/too-quick-to-brunch.git"
   },
   "scripts": {
     "start": "brunch watch --server",
